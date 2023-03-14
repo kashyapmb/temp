@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(179, 211, 211);
+}
+
+input{
+  width: 100px;
+  height: 50px;
+  font-size: 30px;
+  margin: 20px;
+  border-color: white;
+}
+
+h3{
+  text-align: center;
+  font-size: 50px;
+}
+
+.imgStyle{
+  text-align: center;
+}
+img{
+  width: 400px;
+  height: 400px;
+  margin: 10px;
+  
+  border: 2px solid white;
+  background-color: rgb(40, 82, 81);
+}
+

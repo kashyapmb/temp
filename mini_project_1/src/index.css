@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #043e81;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+div{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px;
+  box-shadow: 0px 2px 4px 2px black;
+}
+
+h1{
+  padding: 20px 20px;
+  background-color: #ffe9c5;
+  color: #043e81;
+  border-radius: 20px;
+  text-shadow: 0px 2px 2px gainsboro;
+}
+
